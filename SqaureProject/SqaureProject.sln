@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqaureProject.Server", "SqaureProject\Server\SqaureProject.Server.csproj", "{931C1AD2-3608-48A2-AB0E-200F3CDD54E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqaureProject.Server", "SqaureProject\Server\SqaureProject.Server.csproj", "{931C1AD2-3608-48A2-AB0E-200F3CDD54E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqaureProject.Client", "SqaureProject\Client\SqaureProject.Client.csproj", "{E9C13E5F-B2AC-4585-B3F1-2A1B810174C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqaureProject.Client", "SqaureProject\Client\SqaureProject.Client.csproj", "{E9C13E5F-B2AC-4585-B3F1-2A1B810174C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqaureProject.Shared", "SqaureProject\Shared\SqaureProject.Shared.csproj", "{E28010E1-CDE2-46C0-9129-7FB0C11A3750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqaureProject.Shared", "SqaureProject\Shared\SqaureProject.Shared.csproj", "{E28010E1-CDE2-46C0-9129-7FB0C11A3750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

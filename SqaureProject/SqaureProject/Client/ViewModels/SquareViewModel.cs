@@ -1,10 +1,10 @@
-﻿using SquareProject.Models;
-using System;
+﻿using SquareProject.Client.ViewModels;
+using SquareProject.Models;
 using ViewModels.BaseClass;
 
 namespace SquareProject.ViewModels
 {
-    public class SquareViewModel : ViewModelBase
+    public class SquareViewModel : ViewModelBase, ISquareViewModel
     {
         private Square _square;
 

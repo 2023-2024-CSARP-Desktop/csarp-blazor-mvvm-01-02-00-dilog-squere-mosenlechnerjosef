@@ -1,4 +1,4 @@
-﻿﻿using System.ComponentModel;
+﻿using System.ComponentModel;
 
 namespace ViewModels.BaseClass
 {
@@ -6,5 +6,8 @@ namespace ViewModels.BaseClass
     {
         public bool IsBusy { get; set; }
         public event PropertyChangedEventHandler PropertyChanged;
+    }
+}
+        }
     }
 }

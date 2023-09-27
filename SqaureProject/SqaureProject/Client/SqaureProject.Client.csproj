@@ -10,13 +10,6 @@
   <ItemGroup>
     <Compile Remove="Pages\BaseClass\IViewModelBase.cs" />
     <Compile Remove="Pages\BaseClass\ViewModelBase.cs" />
-    <Compile Remove="ViewModels\BaseClass\SquareViewModel.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="ViewModels\BaseClass\IViewModelBase.cs" />
-    <Content Include="ViewModels\BaseClass\SquareViewModel.cs" />
-    <Content Include="ViewModels\BaseClass\ViewModelBase.cs" />
   </ItemGroup>
 
   <ItemGroup>
